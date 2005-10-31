@@ -1,0 +1,78 @@
+html, body, p, div, span, td {
+	font-family: Arial, sans-serif;
+}
+
+h1 {
+	text-align: center;
+	background-color: #FFFFA0;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	width: 50%;
+	margin-left: auto;
+	margin-right: auto;
+	border: 1px solid;
+}
+
+h1 a, h1 a:visited {
+	color: #000000;
+	text-decoration: none;
+}
+
+h1 a:hover, h1 a:visited:hover {
+	color: #000000;
+	text-decoration: underline;
+}
+
+h2 {
+	text-align: center;
+}
+
+span.invalidlink {
+	color: #FF0000;
+	text-decoration: underline;
+}
+
+div.section {
+	border: 1px solid;
+	width: 33%;
+	background-color: #C0C0C0;
+	padding: 10px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 25px;
+}
+
+div.list {
+	border: 1px solid;
+	width: 33%;
+	background-color: #C0C0C0;
+	padding: 10px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 25px;
+}
+
+div.list p {
+	padding: 0;
+	margin: 0;
+}
+
+div.notes {
+	border: 1px solid;
+	width: 90%;
+	background-color: #FFFFFF;
+	padding: 10px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 25px;
+}
+
+a, a:hover, a:visited, a:visited:hover {
+	color: #0000FF;
+	text-decoration: underline;
+}
+
+thead td {
+	font-weight: bold;
+	padding-bottom: 10px;
+}

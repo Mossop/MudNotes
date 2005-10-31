@@ -1,0 +1,7 @@
+<Files mudnotes.php>
+	Deny from all
+</Files>
+
+<Files mazes.php>
+	Deny from all
+</Files>
